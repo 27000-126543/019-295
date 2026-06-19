@@ -1,0 +1,14 @@
+{
+  "batch_id": "cli_空词包测试",
+  "timestamp": "20260619_104603",
+  "datetime": "2026-06-19 10:46:03",
+  "results": [
+    {
+      "project_name": "空词包测试",
+      "error": "缺少词包",
+      "volume_data": [],
+      "anomalies": [],
+      "brief": ""
+    }
+  ]
+}
